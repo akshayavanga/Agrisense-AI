@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/7a32a21e-7a10-4142-a518-48b0a
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Off Campus Code: YANPQW
